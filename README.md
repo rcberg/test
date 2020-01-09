@@ -1,3 +1,5 @@
-# garrett stanford's first readme
+# a haiku for robert
 
-i think i am the only human in this classroom of robots
+this is my class test
+'hello world': that's what i say
+i will never know
