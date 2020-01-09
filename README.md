@@ -1,7 +1,9 @@
 # a haiku for robert
 
 this is my class test
+
 'hello world': that's what i say
+<<<<<<< HEAD
 i will never know
 
 In The Rain-
@@ -34,3 +36,7 @@ think
        of you
        
        --EE Cummings
+=======
+
+i will never know
+>>>>>>> e53b926ac0da1ae1ded66c5e17c19aa53d4d1fbf
